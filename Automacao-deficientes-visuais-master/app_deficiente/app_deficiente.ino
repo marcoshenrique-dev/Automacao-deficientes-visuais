@@ -15,6 +15,9 @@
    https://www.youtube.com/channel/UC3ZaLCltfI-34EQaZmWFaeg?view_as=subscriber
    Email : marcoshenriqueh393@gmail.com
 
+  Editado por:
+  Gabriel Sirtori Corrêa
+
 */
 
 #include <SoftwareSerial.h>
